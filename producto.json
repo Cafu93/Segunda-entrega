@@ -1,0 +1,12 @@
+[
+  {
+    "pid": 1,
+    "title": "reloj inteligente",
+    "description": "Incluye chat-gpt",
+    "code": "1111",
+    "price": 15,
+    "status": true,
+    "stock": 20,
+    "category": "electronica"
+  }
+]
